@@ -1,0 +1,36 @@
+# ==============================================================================
+# SPADA UNS Mobile — .gitignore
+# ==============================================================================
+
+# --- Internal Agent / Working Files (Do NOT Push) ---
+/AGENTS.md
+/HANDOVER_ANTIGRAVITY_SPADA_MOBILE.md
+/Arsip/
+/Assets/
+/Review/
+
+# --- Duplicate / Root Raw Files (Canonical copies live in docs/ and design/) ---
+/SPADA UNS Mobile.fig
+/SPADA UNS Mobile - Portfolio Export.fig
+/SPADA UNS Mobile.figcraft
+/Handoff Riset UX SPADA UNS Mobile.md
+/HANDOFF_CODEX_SPADA_MOBILE.md
+/A Systematic Literature Review of Mobile Application Usability.pdf
+/itse-07-2023-0122.pdf
+/SS Spada/
+/SS Ruang Guru Mobile/
+
+# --- Local Deploy & Tooling Cache ---
+.netlify/
+prototype/.netlify/
+.vscode/
+.idea/
+node_modules/
+
+# --- OS / System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*
