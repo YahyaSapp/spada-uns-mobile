@@ -1,34 +1,35 @@
 # SPADA UNS Mobile
 
-> Prototipe Aplikasi Pembelajaran Mobile untuk mahasiswa Universitas Sebelas Maret (UNS) — Proyek UAS Mata Kuliah **Interaksi Manusia & Komputer (IMK)**, Kelompok 9.
+> Mobile Learning Application Redesign & Interactive Prototype for **Universitas Sebelas Maret (UNS)** students — Final Project for **Human-Computer Interaction (IMK)**, Team 9.
 
-## Ringkasan Proyek
+## Project Overview
 
-**SPADA UNS Mobile** dirancang sebagai redesain pengalaman belajar mobile yang bersih (*clean light UI*), lega, dan mudah dijangkau satu tangan (*thumb-friendly*). Proyek ini menggabungkan alur akademik **SPADA UNS** dengan pola navigasi dan keterbacaan mobile modern yang terinspirasi dari **Ruangguru** (tanpa elemen promosi/banner iklan).
+**SPADA UNS Mobile** reimagines the academic mobile learning workflow of **SPADA UNS** with a clean, airy *Light UI* and thumb-friendly interaction patterns benchmarked from **Ruangguru** (without promotional clutter).
 
 - **Live Prototype (Netlify):** [spada-uns-mobile-v1.netlify.app](https://spada-uns-mobile-v1.netlify.app)
-- **Target Evaluasi:** Usability Testing V1 (skenario T1–T4) dengan instrumen UEQ Mobile Learning.
+- **Design & Engineering Workflow:** UX Research → Figma Design System & 25 Hi-Fi Screens (`390×844`) → Mobile-First HTML/CSS/JS Prototype
+- **Usability Evaluation:** Mobile Usability Testing V1 (`T1–T4`) with the Mobile Learning UEQ instrument.
 
-## Struktur Repositori
+## Repository Structure
 
 ```text
 spada-uns-mobile/
 ├── docs/
-│   ├── research/        # Handoff riset UX, spesifikasi terkunci, & paper referensi
-│   ├── benchmarks/      # Tangkapan layar as-is SPADA UNS & benchmark Ruangguru
-│   └── article/         # Kerangka & kolaborasi artikel UAS Kelompok 9
-├── design/              # File sumber FigCraft, Figma Portfolio Export, & preview layar
-├── prototype/           # Prototipe interaktif mobile-first (HTML/CSS/JS)
+│   ├── research/        # UX research handoff, locked product spec, & reference papers
+│   ├── benchmarks/      # As-is SPADA UNS mobile audit & Ruangguru UI benchmarks
+│   └── article/         # HCI final project article outline & Team 9 collaboration
+├── design/              # Figma Light Design System spec & exported Hi-Fi previews
+├── prototype/           # Interactive mobile-first prototype (HTML/CSS/JS)
 ├── .gitignore
 └── README.md
 ```
 
-## Peta Pengembangan Repositori
+## Release Roadmap
 
-- [x] **Tahap 1 — Fondasi Repo & Riset UX:** Setup struktur repo, dokumentasi riset UX, dan aset benchmark (`docs/`).
-- [ ] **Tahap 2 — Design System & Core Prototype:** Publikasi aset desain (`design/`), token visual, dan fondasi prototipe interaktif.
-- [ ] **Tahap 3 — Full Prototype T1–T4 & Rilis `v1.0.0`:** Penyelesaian seluruh alur skenario uji, showcase visual lengkap, dan kolaborasi artikel UAS.
+- [x] **Stage 1 — Foundation & UX Research:** Repository setup, UX research synthesis, locked product specification, and visual benchmark archive (`docs/`).
+- [ ] **Stage 2 — Design System & Core Prototype:** Light-theme Design System documentation, 25 Hi-Fi screen previews (`design/`), design tokens, and core prototype architecture.
+- [ ] **Stage 3 — Full T1–T4 Flows & `v1.0.0` Release:** End-to-end interactive flows, complete visual README showcase, Team 9 article workspace, and `v1.0.0` release.
 
 ---
 
-*Universitas Sebelas Maret · Informatika · Kelompok 9 IMK (2026)*
+*Universitas Sebelas Maret · Informatics · Team 9 HCI (2026)*
