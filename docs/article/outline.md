@@ -27,7 +27,7 @@
   1. Inspeksi visual as-is SPADA UNS & benchmark pola interaksi mobile Ruangguru (`docs/benchmarks/SS Ruang Guru Mobile/`).
   2. Penyusunan Arsitektur Informasi & User Flow (`S01–S15`).
   3. Perancangan Light-Theme Design System & 25 layar Hi-Fi (`390×844`) di Figma.
-  4. Implementasi prototipe interaktif mobile-first berbasis HTML/CSS/JS (`prototype/`, live di Netlify) dengan *state persistence* `localStorage`.
+  4. Implementasi prototipe interaktif mobile-first berbasis HTML/CSS/JS (`prototype/`, live di Vercel) dengan *state persistence* `localStorage`.
 - **Protokol Pengujian Usability V1:**
   - 4 skenario inti (`T1` PPT, `T2` Video, `T3` Unggah Tugas + error recovery, `T4` Kuis 5 soal pilgan + esai) + 2 alur pendukung (*Enroll Kelas* & *Cari Materi*).
 

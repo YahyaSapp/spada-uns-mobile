@@ -2,12 +2,12 @@
 
 > Clean, thumb-friendly mobile learning redesign and interactive HTML prototype for **Universitas Sebelas Maret (UNS)** students — **Human-Computer Interaction (IMK)** Final Project, Team 9.
 
-[![Live Prototype](https://img.shields.io/badge/Live%20Prototype-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://spada-uns-mobile-v1.netlify.app)
+[![Live Prototype](https://img.shields.io/badge/Live%20Prototype-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://spada-uns-mobile-prototype.vercel.app/)
 [![Screens](https://img.shields.io/badge/Hi--Fi%20Screens-25%20Frames%20(390×844)-0B63CE?style=flat-square)](design/README.md)
 [![Design System](https://img.shields.io/badge/Theme-Light%20Design%20System-F4C62F?style=flat-square&logoColor=1E293B)](design/README.md)
 [![Evaluation](https://img.shields.io/badge/Usability-T1--T4%20%2B%20UEQ%20V1-15803D?style=flat-square)](docs/research/Daftar_Pertanyaan_UEQ_Evaluasi_V1.md)
 
-**[Try Live Interactive Prototype](https://spada-uns-mobile-v1.netlify.app)** · **[Design System & 25-Screen Spec](design/README.md)** · **[Product Specification](docs/research/product-specification.md)** · **[UX Research & Audit](docs/research/Handoff%20Riset%20UX%20SPADA%20UNS%20Mobile.md)**
+**[Try Live Interactive Prototype](https://spada-uns-mobile-prototype.vercel.app/)** · **[Design System & 25-Screen Spec](design/README.md)** · **[Product Specification](docs/research/product-specification.md)** · **[UX Research & Audit](docs/research/Handoff%20Riset%20UX%20SPADA%20UNS%20Mobile.md)**
 
 ![SPADA UNS Mobile — Core Navigation & Home Screens](design/previews/row1_navigasi_utama.png)
 
@@ -58,7 +58,7 @@ Explore the complete token tables and component guidelines in **[`design/README.
 
 ## 4. Interactive Prototype & Usability Test Scenarios (`T1–T4`)
 
-The **[Live Prototype](https://spada-uns-mobile-v1.netlify.app)** is a zero-dependency, 100% client-side mobile-first web app (`max-width: 430px; min-height: 100dvh`) with **`localStorage` state persistence**, instant state reset, and an unobtrusive **"Panduan Uji"** floating helper for respondents.
+The **[Live Prototype](https://spada-uns-mobile-prototype.vercel.app/)** is a zero-dependency, 100% client-side mobile-first web app (`max-width: 430px; min-height: 100dvh`) with **`localStorage` state persistence**, instant state reset, and a built-in **"Panduan uji T1–T4"** checklist accessible from **Akun & pengaturan** (`YS · Akun ▾`).
 
 | Scenario | User Goal Verified in Prototype | Key Interactive Capabilities |
 | --- | --- | --- |
