@@ -530,5 +530,5 @@ window.SPADA_DATA = {
     ]
   },
 
-  evaluationFormUrl: "https://forms.gle/spada-uns-mobile-v1-placeholder"
+  evaluationFormUrl: "https://forms.gle/Hwj5pgipVbVQouN66"
 };

@@ -1894,6 +1894,10 @@
                 <button class="toggle-switch ${state.settings.deadlineReminder ? "on" : ""}" data-action="toggle-reminder" role="switch" aria-checked="${state.settings.deadlineReminder}" aria-label="Pengingat tenggat tugas"></button>
               </div>
               <div class="receipt-item row-between">
+                <span class="fw-bold" style="font-size:13.5px;">Panduan uji T1–T4</span>
+                <button class="section-link" data-action="open-helper">Buka ›</button>
+              </div>
+              <div class="receipt-item row-between">
                 <span class="fw-bold" style="font-size:13.5px;">Reset data prototipe</span>
                 <button class="section-link" data-action="reset-proto">Ulang uji ›</button>
               </div>
@@ -2929,6 +2933,11 @@
         state.settings.deadlineReminder = !state.settings.deadlineReminder;
         ST.saveState(state);
         render();
+        break;
+
+      case "open-helper":
+        activeOverlay = { type: "helper" };
+        renderOverlay();
         break;
 
       case "reset-proto":
