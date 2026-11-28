@@ -26,6 +26,7 @@ prototype/.netlify/
 .vscode/
 .idea/
 node_modules/
+*.gs
 
 # --- OS / System Files ---
 .DS_Store
