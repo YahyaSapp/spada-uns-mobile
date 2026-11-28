@@ -111,4 +111,4 @@ spada-uns-mobile/
 
 ## 7. Team & Academic Attribution
 
-Developed by **Team 9 — Informatics, Universitas Sebelas Maret (UNS)** for the **Human-Computer Interaction (IMK)** Final Project (2026). All student profiles (`Raka Pratama`, `M0522048`), course rosters, assignments, and quiz items in the prototype are synthetic dummy data created strictly for usability testing.
+Developed by **Team 9 — Informatics, Universitas Sebelas Maret (UNS)** for the **Human-Computer Interaction (IMK)** Final Project (2026). All mock submissions, sample files, and quiz items in the prototype are synthetic test data created strictly for usability testing.

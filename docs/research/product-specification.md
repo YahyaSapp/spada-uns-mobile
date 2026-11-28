@@ -65,7 +65,7 @@ Instead of static click-through noodle prototypes, real interactions are enginee
 - **Theme:** Light theme across all screens.
 
 ### B. Locked Dummy Dataset
-- **Dummy Account:** UNS Informatics Student (*Raka Pratama*, dummy NIM `M0522048`, Semester 5 — Academic Year 2026/2027).
+- **Demo Account:** UNS Informatics Student (*Yahya Saputra*, Semester 5 — Academic Year 2026/2027).
 - **Primary Enrolled Course:** **Interaksi Manusia & Komputer (IMK) — Kelas A** (`TIF305 · Kelas A`, status: *Diikuti*).
   - Supported by 2 additional realistic courses (*Rekayasa Perangkat Lunak — Kelas A* and *Pemrograman Web — Kelas A*) for natural Home & Activity density.
 - **Catalog Comparison Courses (Testing K05 — similar course names & 3 access states):**
