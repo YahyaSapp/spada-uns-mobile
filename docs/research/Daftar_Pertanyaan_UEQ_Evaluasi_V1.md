@@ -2,7 +2,7 @@
 
 **Kerangka Evaluasi:** Adaptasi Mobile Learning Usability Evaluation Questionnaire (UEQ) — Kumar & Chand (2024)  
 **Skala Penilaian:** Nielsen (1995) Severity Rating `1–4` (`1 = Tidak ada kendala`, `4 = Kendala kritis`)  
-**Prototipe Uji:** [spada-uns-mobile-v1.netlify.app](https://spada-uns-mobile-v1.netlify.app)  
+**Prototipe Uji:** [spada-uns-mobile-prototype.vercel.app](https://spada-uns-mobile-prototype.vercel.app/)  
 **Struktur Instrumen:** 11 Bagian · **45 Pertanyaan** (4 Screening + 6 Skenario Uji + 33 Item UEQ + 2 Prioritas Revisi V2)
 
 ---

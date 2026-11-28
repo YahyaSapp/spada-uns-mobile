@@ -20,5 +20,5 @@ Update tabel ini lewat PR saat masing-masing anggota mengambil bagian penulisan:
 - [ ] **Section 1 & 2** — Abstrak, Pendahuluan, & Audit As-Is SPADA UNS (`docs/benchmarks/SS Spada/`)
 - [ ] **Section 3** — Metode Riset, Benchmark Ruangguru, & Landasan Teori (Huang & Benyoucef; Kumar & Chand)
 - [ ] **Section 4** — Hasil Perancangan Design System (Light) & 25 Layar Hi-Fi (`design/README.md`, `design/previews/`)
-- [ ] **Section 5** — Implementasi Prototipe Interaktif V1 (`prototype/`, Live Netlify)
+- [ ] **Section 5** — Implementasi Prototipe Interaktif V1 (`prototype/`, Live Vercel)
 - [ ] **Section 6 & 7** — Hasil Pengujian Usability T1–T4, Analisis UEQ V1, Rekomendasi Revisi V2, & Kesimpulan

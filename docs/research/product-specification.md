@@ -5,7 +5,7 @@
 **Target UAS:** 7 Desember 2026 (Week 16)  
 **Final Deliverables:**
 1. **Visual Assets & Design System** (exported PNG/PDF from Figma for the report & presentation slides)
-2. **Live Interactive HTML Prototype V1** (mobile-first web app, hosted on Netlify) + **V2 Revision** post-testing
+2. **Live Interactive HTML Prototype V1** (mobile-first web app, hosted on Vercel) + **V2 Revision** post-testing
 3. **Usability Testing V1 Evaluation** (~5 UNS students) + **HCI Final Project Article & Report**
 
 ---
@@ -49,7 +49,7 @@ Instead of static click-through noodle prototypes, real interactions are enginee
         │
         ▼
 [Phase 5] Deploy & Usability Testing V1 (~5 UNS Students)
-    Deploy `prototype/` to Netlify (HTTPS + QR Code).
+    Deploy `prototype/` to Vercel (HTTPS + QR Code).
     Run T1–T4 mobile tests → collect UEQ V1 responses (Kumar & Chand) → V2 iteration & UAS Article.
 ```
 
